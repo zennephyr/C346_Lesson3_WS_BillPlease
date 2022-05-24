@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="amount">Amount($):</string>
+    <string name="no_of_pax">No. of Pax:</string>
+    <string name="service_gst">Service/GST:</string>
+    <string name="discount">Discount(%):</string>
+    <string name="payment_method">Payment method:</string>
+    <string name="amount_to_be_split_reset">Amount to be split/reset:</string>
+</resources>
